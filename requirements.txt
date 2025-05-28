@@ -1,5 +1,7 @@
 llama-index
-openai
+google-genai
+langchain-core 
+langchain-google-vertexai
 python-dotenv
 python-pptx
 requests

@@ -13,7 +13,8 @@ This repository contains a Jupyter notebook that demonstrates how to generate Po
 To run the notebook, you'll need the following dependencies installed in your Python environment:
 
 ```bash
-pip install openai pptx jupyter pandas
+pip install from google  pptx jupyter pandas
+pip install vertexai langchain_google_vertexai
 ```
 
 ## Usage
